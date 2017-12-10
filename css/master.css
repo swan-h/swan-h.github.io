@@ -60,3 +60,8 @@ p {
   color: antiquewhite;
 }
   
+.line-break{
+  width: 300px;
+  margin: 0 auto;
+  border-top: 1px solid white;
+}
