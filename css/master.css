@@ -30,3 +30,24 @@ h1{
    letter-spacing: 3;
    font-size: 40px;
 }
+
+h4 {
+  font-size: 25px;
+  font-weight: 500;
+  letter-spacing: 2;
+  color: lightcoral;
+}
+
+h5 {
+  font-size: 20px;
+  font-weight: 500;
+  letter-spacing: 1.5;
+  color: lightcoral;
+}
+
+p {
+  letter-spacing: 1;
+  font-weight: 100;
+  color: antiquewhite;
+  font-size: 16px;
+}
