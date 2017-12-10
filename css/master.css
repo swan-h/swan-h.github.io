@@ -20,8 +20,7 @@ html {
 
 .prof-pic{
   border-radius: 50%;
-  height: 150px;
-  width: 120px;   
+  height: 150px;   
 }
 
 h1{
@@ -57,7 +56,7 @@ p {
 }
 
 .social-icons a {
-  margin-top: 20px;
+  maring-top: 20px;
   color: antiquewhite;
 }
   
