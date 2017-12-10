@@ -7,11 +7,18 @@ html {
 }
 
 .prof-box {
-width: 500px;
-height: 500px;
-background: rgba(0,0,0,0.4);
-padding: 40px;
-color: white;
-margin: 0 auto;
-margin-top: 140px;
+  width: 500px;
+  height: 500px;
+  background: rgba(0,0,0,0.4);
+  padding: 40px;
+  color: white;
+  margin: 0 auto;
+  margin-top: 140px;
+}
+
+.prof-pic{
+  position: relative;
+  border-radius: 50%;
+  height: 200px;
+  width: 200px;   
 }
