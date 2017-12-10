@@ -9,7 +9,7 @@ html {
 
 .prof-box {
   width: 700px;
-  height: 600px;
+  height: 750px;
   background: rgba(0,0,0,0.4);
   padding: 40px;
   color: white;
@@ -69,4 +69,18 @@ p {
   width: 500px;
   margin: 0 auto;
   border-top: 1px solid white;
+}
+
+h2{
+  letter-spacing: 3;
+  color: lightcoral;
+  font-weight: 500;
+  font-size: 28px;
+}
+
+h3{
+   color: antiquewhite;
+   font-size: 17;
+   font-weight: 200;
+   letter-spacing: 2;
 }
