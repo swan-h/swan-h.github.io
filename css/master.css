@@ -14,10 +14,10 @@ html {
   color: white;
   margin: 0 auto;
   margin-top: 140px;
+  text-align: center;
 }
 
 .prof-pic{
-  position: relative;
   border-radius: 50%;
   height: 200px;
   width: 200px;   
