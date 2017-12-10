@@ -9,7 +9,7 @@ html {
 
 .prof-box {
   width: 700px;
-  height: 700px;
+  height: 600px;
   background: rgba(0,0,0,0.4);
   padding: 40px;
   color: white;
@@ -21,7 +21,7 @@ html {
 .prof-pic{
   border-radius: 50%;
   height: 150px;
-  width: 150px;   
+  width: 120px;   
 }
 
 h1{
@@ -57,16 +57,17 @@ p {
 }
 
 .social-icons a {
+  margin-top: 20px;
   color: antiquewhite;
 }
   
 .line-break{
-  width: 300px;
+  width: 500px;
   margin: 0 auto;
   border-top: 1px solid white;
 }
 .line-break2{
-  width: 300px;
+  width: 500px;
   margin: 0 auto;
   border-top: 1px solid white;
 }
